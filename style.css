@@ -1,0 +1,84 @@
+/* . for class
+    # for ID */
+
+
+body {
+    background-color: rgba(255, 192, 203, 0.682);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipetext,
+a.nav {
+    margin: auto;
+    width: 50%;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    width: 100px
+}
+
+a, 
+a.nav {
+    text-decoration: none;
+    text-align: center;
+    background-color: rgb(241, 126, 145);
+    color: white;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+a.nav {
+    width: 500px;
+    font-size: 24px;
+}
+
+a:hover,
+a.nav:hover {
+    color:rgb(241, 126, 145);
+    background-color: white;
+}
+
+
+
+img {
+    border: 3px solid;
+    border-color: white;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 400px;
+    height: auto;
+    
+}
+
+
+
+
+
+
+
+/* 
+button.recipe {
+    background-color: rgb(241, 126, 145);
+    color: white;
+    width: 500px;
+    font-size: 24px;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: none;
+}
+
+
+
+
+ */
